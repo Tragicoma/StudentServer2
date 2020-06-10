@@ -1,50 +1,47 @@
-{
-  "Status": "success",
-  "Data": [
-    {
-      "name": "Janis1",
-      "surname": "Berzins",
-      "course": 3
-    },
-    {
-      "name": "Janis2",
-      "surname": "Berzins",
-      "course": 2
-    },
-    {
-      "name": "Janis3",
-      "surname": "Berzins",
-      "course": 3
-    },
-    {
-      "name": "Janis4",
-      "surname": "Berzins",
-      "course": 1
-    },
-    {
-      "name": "Janis5",
-      "surname": "Berzins",
-      "course": 2
-    },
-    {
-      "name": "Janis6",
-      "surname": "Berzins",
-      "course": 3
-    },
-    {
-      "name": "Janis7",
-      "surname": "Berzins",
-      "course": 3
-    },
-    {
-      "name": "Janis8",
-      "surname": "Berzins",
-      "course": 2
-    },
-    {
-      "name": "Janis9",
-      "surname": "Berzins",
-      "course": 3
-    }
-  ]
-}
+[
+  {
+    "name": "Janis1",
+    "surname": "Berzins",
+    "course": 3
+  },
+  {
+    "name": "Janis2",
+    "surname": "Berzins",
+    "course": 1
+  },
+  {
+    "name": "Janis3",
+    "surname": "Berzins",
+    "course": 1
+  },
+  {
+    "name": "Janis4",
+    "surname": "Berzins",
+    "course": 3
+  },
+  {
+    "name": "Janis5",
+    "surname": "Berzins",
+    "course": 3
+  },
+  {
+    "name": "Janis6",
+    "surname": "Berzins",
+    "course": 1
+  },
+  {
+    "name": "Janis7",
+    "surname": "Berzins",
+    "course": 3
+  },
+  {
+    "name": "Janis8",
+    "surname": "Berzins",
+    "course": 3
+  },
+  {
+    "name": "Janis9",
+    "surname": "Berzins",
+    "course": 1
+  }
+]
